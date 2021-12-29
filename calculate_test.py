@@ -56,5 +56,5 @@ def testCalculation(length,amount,interest,desiredResults):
 init()
 log("\n\nStart running test calculate1")
 testCalculation(70,150000,10,calculate1_results) #period in months, amount, interest rate
-log("\n\nStart running test calculate1")
+log("\n\nStart running test calculate2")
 testCalculation(12,10000,10,calculate2_results)
